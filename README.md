@@ -8,7 +8,7 @@ This project is a digital watch that is made on my FPGA board using the 7 segmen
 The watch has a digital clock, stopwatch, and a timer<br/>
 Below I have some brief descriptions of the modules I have made<br/>
 Click
-<a href="https://youtu.be/NJnX_LAqaFY"> here</a> to see the watch being used
+<a href="https://youtube.com/shorts/tkL97VU13MA?feature=share"> here</a> to see the watch being used
 </b>
 
 <h2> 
